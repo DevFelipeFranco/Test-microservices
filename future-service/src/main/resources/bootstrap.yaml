@@ -1,0 +1,7 @@
+server:
+  port: 8380
+
+future:
+  url: https://query1.finance.yahoo.com/v7/finance/chart/
+#  url: https://query1.finance.yahoo.com/v8/finance/quote
+

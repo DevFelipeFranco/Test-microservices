@@ -1,0 +1,5 @@
+server:
+  port: 8280
+
+currency:
+  url: https://query1.finance.yahoo.com/v7/finance/spark
